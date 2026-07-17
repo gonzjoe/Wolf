@@ -14,11 +14,15 @@ import {
   SectorItem
 } from "./types";
 
+import heroBg from "./assets/images/hero_elevator_1784243230101.jpg";
+import technician from "./assets/images/elevator_technician_1784243242377.jpg";
+import modernCabin from "./assets/images/elevator_modernization_1784243253597.jpg";
+
 // Paths to generated images (dynamically created by AI Studio build tools)
 export const IMAGES = {
-  heroBg: "/src/assets/images/hero_elevator_1784243230101.jpg",
-  technician: "/src/assets/images/elevator_technician_1784243242377.jpg",
-  modernCabin: "/src/assets/images/elevator_modernization_1784243253597.jpg",
+  heroBg,
+  technician,
+  modernCabin,
 };
 
 export const STATS: StatItem[] = [

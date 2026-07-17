@@ -45,7 +45,7 @@ export default function Footer() {
               </div>
             </Link>
             <p className="text-sm text-slate-400 leading-relaxed font-sans">
-              Líderes en el diseño, instalación, modernización y mantenimiento de ascensores en Manizales y el Eje Cafetero. Seguridad absoluta y fiabilidad con más de 20 años de experiencia.
+              Servicio profesional de mantenimiento y repuestos originales de ascensores para todas las marcas.
             </p>
             <div className="flex items-center gap-3 pt-2">
               <a href="#" className="w-8 h-8 rounded-lg bg-navy-900 hover:bg-amber-brand-500 hover:text-navy-950 flex items-center justify-center transition-all" aria-label="Facebook">
