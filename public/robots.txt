@@ -1,0 +1,6 @@
+# Robots.txt for Ascensores Wolf
+# Optimizado para buscadores tradicionales y agentes de Inteligencia Artificial (AEO / LLMs)
+User-agent: *
+Allow: /
+
+Sitemap: https://www.ascensoreswolf.com/sitemap.xml

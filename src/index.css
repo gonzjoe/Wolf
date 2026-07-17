@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-navy-50: #f4f6fc;
+  --color-navy-100: #e8ecf7;
+  --color-navy-200: #cbd6ed;
+  --color-navy-300: #a1b8df;
+  --color-navy-400: #7193cd;
+  --color-navy-500: #4e73b9;
+  --color-navy-600: #3c5b9f;
+  --color-navy-700: #324a83;
+  --color-navy-800: #2c3f6e;
+  --color-navy-900: #28365c;
+  --color-navy-950: #0f1629; /* Dark Navy Background */
+
+  --color-amber-brand-500: #f59e0b;
+  --color-amber-brand-600: #d97706;
+}
+
+/* Custom base animations and utility classes */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+  }
+}

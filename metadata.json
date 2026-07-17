@@ -1,0 +1,6 @@
+{
+  "name": "Ascensores Wolf",
+  "description": "Sitio web multipágina profesional para Ascensores Wolf, líder en el mantenimiento, reparación y modernización de ascensores en Manizales y el Eje Cafetero con más de 20 años de experiencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
