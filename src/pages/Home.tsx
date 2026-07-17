@@ -501,65 +501,65 @@ export default function Home() {
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
-            {/* 19. Ascensores Mitsubishi */}
+            {/* 19. Mitsubishi */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores Mitsubishi</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Mitsubishi</h3>
             </div>
-            {/* 20. Ascensores Otis */}
+            {/* 20. Otis */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores Otis</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Otis</h3>
             </div>
-            {/* 21. Ascensores Andino */}
+            {/* 21. Andino */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores Andino</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Andino</h3>
             </div>
-            {/* 22. Ascensores Schindler */}
+            {/* 22. Schindler */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores Schindler</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Schindler</h3>
             </div>
-            {/* 23. Ascensores LG */}
+            {/* 23. LG */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores LG</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">LG</h3>
             </div>
-            {/* 24. Ascensores Sigma */}
+            {/* 24. Sigma */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores Sigma</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Sigma</h3>
             </div>
-            {/* 25. Ascensores kone */}
+            {/* 25. Kone */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores kone</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Kone</h3>
             </div>
-            {/* 26. Ascensores Schindler */}
+            {/* 26. Schindler */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores Schindler</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Schindler</h3>
             </div>
-            {/* 27. Ascensores ThyssenKrupp */}
+            {/* 27. ThyssenKrupp */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores ThyssenKrupp</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">ThyssenKrupp</h3>
             </div>
-            {/* 28. Ascensores Hyundai */}
+            {/* 28. Hyundai */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores Hyundai</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Hyundai</h3>
             </div>
-            {/* 29. Ascensores Fujitec */}
+            {/* 29. Fujitec */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores Fujitec</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Fujitec</h3>
             </div>
-            {/* 30. Ascensores Orona */}
+            {/* 30. Orona */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores Orona</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Orona</h3>
             </div>
-            {/* 31. Ascensores HD */}
+            {/* 31. HD */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores HD</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">HD</h3>
             </div>
-            {/* 32. Ascensores Fuji */}
+            {/* 32. Fuji */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores Fuji</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Fuji</h3>
             </div>
-            {/* 33. Ascensores Hitachi */}
+            {/* 33. Hitachi */}
             <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm text-center hover:border-amber-brand-500 transition-all col-span-2 sm:col-span-1">
-              <h3 className="text-sm font-display font-bold text-slate-900">Ascensores Hitachi</h3>
+              <h3 className="text-sm font-display font-bold text-slate-900">Hitachi</h3>
             </div>
           </div>
         </div>
@@ -643,45 +643,45 @@ export default function Home() {
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-16">
-            {/* 38. Escaleras Eléctricas Mitsubishi */}
+            {/* 38. Mitsubishi */}
             <div className="bg-slate-800/60 p-4 rounded-xl border border-slate-700/50 text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-xs font-display font-bold text-white">Escaleras Eléctricas Mitsubishi</h3>
+              <h3 className="text-xs font-display font-bold text-white">Mitsubishi</h3>
             </div>
-            {/* 39. Escaleras Eléctricas Otis */}
+            {/* 39. Otis */}
             <div className="bg-slate-800/60 p-4 rounded-xl border border-slate-700/50 text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-xs font-display font-bold text-white">Escaleras Eléctricas Otis</h3>
+              <h3 className="text-xs font-display font-bold text-white">Otis</h3>
             </div>
-            {/* 40. Escaleras Eléctricas Andino */}
+            {/* 40. Andino */}
             <div className="bg-slate-800/60 p-4 rounded-xl border border-slate-700/50 text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-xs font-display font-bold text-white">Escaleras Eléctricas Andino</h3>
+              <h3 className="text-xs font-display font-bold text-white">Andino</h3>
             </div>
-            {/* 41. Escaleras Eléctricas Schindler */}
+            {/* 41. Schindler */}
             <div className="bg-slate-800/60 p-4 rounded-xl border border-slate-700/50 text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-xs font-display font-bold text-white">Escaleras Eléctricas Schindler</h3>
+              <h3 className="text-xs font-display font-bold text-white">Schindler</h3>
             </div>
-            {/* 42. Escaleras Eléctricas LG */}
+            {/* 42. LG */}
             <div className="bg-slate-800/60 p-4 rounded-xl border border-slate-700/50 text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-xs font-display font-bold text-white">Escaleras Eléctricas LG</h3>
+              <h3 className="text-xs font-display font-bold text-white">LG</h3>
             </div>
-            {/* 43. Escaleras Eléctricas Sigma */}
+            {/* 43. Sigma */}
             <div className="bg-slate-800/60 p-4 rounded-xl border border-slate-700/50 text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-xs font-display font-bold text-white">Escaleras Eléctricas Sigma</h3>
+              <h3 className="text-xs font-display font-bold text-white">Sigma</h3>
             </div>
-            {/* 44. Escaleras Eléctricas kone */}
+            {/* 44. Kone */}
             <div className="bg-slate-800/60 p-4 rounded-xl border border-slate-700/50 text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-xs font-display font-bold text-white">Escaleras Eléctricas kone</h3>
+              <h3 className="text-xs font-display font-bold text-white">Kone</h3>
             </div>
-            {/* 45. Escaleras Eléctricas Schindler */}
+            {/* 45. Schindler */}
             <div className="bg-slate-800/60 p-4 rounded-xl border border-slate-700/50 text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-xs font-display font-bold text-white">Escaleras Eléctricas Schindler</h3>
+              <h3 className="text-xs font-display font-bold text-white">Schindler</h3>
             </div>
-            {/* 46. Escaleras Eléctricas ThyssenKrupp */}
+            {/* 46. ThyssenKrupp */}
             <div className="bg-slate-800/60 p-4 rounded-xl border border-slate-700/50 text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-xs font-display font-bold text-white">Escaleras Eléctricas ThyssenKrupp</h3>
+              <h3 className="text-xs font-display font-bold text-white">ThyssenKrupp</h3>
             </div>
-            {/* 47. Escaleras Eléctricas Hyundai */}
+            {/* 47. Hyundai */}
             <div className="bg-slate-800/60 p-4 rounded-xl border border-slate-700/50 text-center hover:border-amber-brand-500 transition-all">
-              <h3 className="text-xs font-display font-bold text-white">Escaleras Eléctricas Hyundai</h3>
+              <h3 className="text-xs font-display font-bold text-white">Hyundai</h3>
             </div>
           </div>
 
